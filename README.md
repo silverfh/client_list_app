@@ -25,4 +25,5 @@ since we are using small case keys so it wont effect the object names in data ar
 ********* creating .apk build ********
 simply run the following command in your terminal
 > sh ./buildAPK.sh
-*the build will be created under android/app/build/outputs/apk/release/app-release.apk
+
+the build will be created under android/app/build/outputs/apk/release/app-release.apk
